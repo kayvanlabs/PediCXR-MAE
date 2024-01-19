@@ -14,7 +14,6 @@ import datetime
 import json
 import numpy as np
 import os,sys
-sys.path.append('/nfs/turbo/med-kayvan-lab/Projects/HeartFailure/Code/Yufeng/multimodal_CXR_Note')
 import time
 from pathlib import Path
 
